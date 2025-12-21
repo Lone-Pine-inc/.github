@@ -9,7 +9,7 @@ LonePine is a team of enthusiasts driven by the possibilities of the S&box and G
 * [IconsEditor](https://github.com/Lone-Pine-inc/OSS-IconsEditor)
 * [GM-LonePine-Ambient-Campfire](https://github.com/Lone-Pine-inc/G-OSS-LonePine-Ambient-Campfire)
 
-
+---
 
 ### 💬 Connect with us. Comment and chat!
 
