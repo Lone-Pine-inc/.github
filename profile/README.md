@@ -9,6 +9,16 @@ LonePine is a team of enthusiasts driven by the possibilities of the S&box and G
 * [IconsEditor](https://github.com/Lone-Pine-inc/OSS-IconsEditor)
 * [GM-LonePine-Ambient-Campfire](https://github.com/Lone-Pine-inc/G-OSS-LonePine-Ambient-Campfire)
 
+### 🏷️ Repository Naming Convention
+To help you navigate our projects, we use a simple prefix system:
+
+| Prefix | Description |
+| :--- | :--- |
+| **G** | Projects for **Garry’s Mod** |
+| **S** | Projects for **S&box** |
+| **OSS** | **Open Source Software** (Publicly available tools) |
+| **OB** | **Other Bullshit** (Experimental or miscellaneous stuff) |
+
 ---
 
 ### 💬 Connect with us. Comment and chat!
