@@ -4,8 +4,13 @@
 LonePine is a team of enthusiasts driven by the possibilities of the S&box and Garry's mod. Our mission is to push the boundaries of what's possible in games, delivering high-quality content and robust systems for the community.
 
 ### 💥 You may want to check out some of our recent developments:
+* [SBox-Optimizer](https://github.com/Lone-Pine-inc/S-S-boxOptimizer)
+* [SBox-SandboxAddons](https://github.com/Lone-Pine-inc/S-OSS-SandboxAddons)
+* [IconsEditor](https://github.com/Lone-Pine-inc/OSS-IconsEditor)
+* [GM-LonePine-Ambient-Campfire](https://github.com/Lone-Pine-inc/G-OSS-LonePine-Ambient-Campfire)
 
 
-### 💬 Follow our communities. Comment and chat!
+
+### 💬 Connect with us. Comment and chat!
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LonePine-c9n) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/h7d6Ejj4sH)
