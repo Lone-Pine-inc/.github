@@ -7,7 +7,7 @@ LonePine is a team of enthusiasts driven by the possibilities of the S&box and G
 * [SBox-Optimizer](https://github.com/Lone-Pine-inc/S-S-boxOptimizer)
 * [SBox-SandboxAddons](https://github.com/Lone-Pine-inc/S-OSS-SandboxAddons)
 * [IconsEditor](https://github.com/Lone-Pine-inc/OSS-IconsEditor)
-* [GM-LonePine-Ambient-Campfire](https://github.com/Lone-Pine-inc/G-OSS-LonePine-Ambient-Campfire)
+* [SBox-TreeAssetsBrowser](https://github.com/Lone-Pine-inc/S-OSS-TreeAssetsBrowser)
 
 ### 🏷️ Repository Naming Convention
 To help you navigate our projects, we use a simple prefix system:
@@ -21,6 +21,6 @@ To help you navigate our projects, we use a simple prefix system:
 
 ---
 
-### 💬 Connect with us. Comment and chat!
+### 💬 Join the LonePine Community. Comment and chat!
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LonePine-c9n) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/h7d6Ejj4sH)
