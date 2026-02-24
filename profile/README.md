@@ -4,7 +4,7 @@
 LonePine is a team of enthusiasts driven by the possibilities of the S&box and Garry's mod. Our mission is to push the boundaries of what's possible in games, delivering high-quality content and robust systems for the community.
 
 ### 💥 You may want to check out some of our recent developments:
-* [S-OSS-WineDockerS-boxDedicatedSetup](https://github.com/Lone-Pine-inc/S-OSS-WineDockerS-boxDedicatedSetup)
+* [WineDockerS-boxDedicatedSetup](https://github.com/Lone-Pine-inc/S-OSS-WineDockerS-boxDedicatedSetup)
 * [SBox-TreeAssetsBrowser](https://github.com/Lone-Pine-inc/S-OSS-TreeAssetsBrowser)
 * [IconsEditor](https://github.com/Lone-Pine-inc/OSS-IconsEditor)
 * [SBox-Optimizer](https://github.com/Lone-Pine-inc/S-S-boxOptimizer)
